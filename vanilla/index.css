@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.page {
+  display: flex;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#canvas {
+  border: 5px solid purple;
+  height: 600px;
+  margin: auto;
+  width: 600px;
+}
